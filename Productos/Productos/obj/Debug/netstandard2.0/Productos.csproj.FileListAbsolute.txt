@@ -1,0 +1,14 @@
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\bin\Debug\netstandard2.0\Productos.deps.json
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\bin\Debug\netstandard2.0\Productos.dll
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\bin\Debug\netstandard2.0\Productos.pdb
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\Productos.csprojAssemblyReference.cache
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\Productos.csproj.CoreCompileInputs.cache
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\Productos.AssemblyInfoInputs.cache
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\Productos.AssemblyInfo.cs
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\Productos.dll
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\Productos.pdb
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\Views\ProductoListPage.xaml.g.cs
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\Views\ProductoPage.xaml.g.cs
+C:\Users\ORLANDO\source\repos\Productos\Productos\Productos\obj\Debug\netstandard2.0\XamlC.stamp
